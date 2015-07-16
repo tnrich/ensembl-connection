@@ -1,0 +1,14 @@
+{
+  "name": "ensembl-connection",
+  "version": "1.0.0",
+  "description": "testing out connecting to ensembl's rest api",
+  "main": "ensembleRestConnectionTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "biojs-rest-ensembl": "0.0.3"
+  }
+}
